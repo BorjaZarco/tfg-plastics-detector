@@ -54,7 +54,7 @@ python-dateutil==2.8.1
 python-debian==0.1.32
 pytz==2020.1
 pyudev==0.21.0
-pyxdg==0.25
+pyxdg==0.26
 PyYAML==5.3.1
 reportlab==3.4.0
 requests==2.18.4
