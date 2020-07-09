@@ -13,7 +13,7 @@ En primer lugar, la instalación de esta aplicación se requiere la descarga de 
 
 A continuación, se ha de pasar a la descarga de todas las librerías de python de las que depende este proyecto. Existe un pequeño fichero de texto, `requirements.txt`, que lista todas estas dependencias, con la versión específica cada una de ellas que se utilizó durante el desarrollo. Con el comando `pip install -r requirements.txt`, se procedería a la instalación de todas estas bibliotecas de forma automática.
 
-Por último, se ha de descargar (y descomprimir si fuera necesario), la carpeta `model_weights` que está alojada en la nube a través de este [enlace](https://drive.google.com/drive/folders/1Xc_ukgb5vhDLTK4-PasUTTIs4nGZn-Cg?usp=sharing). Hay que asegurarse que esta carpeta se encuentre en la raíz del proyecto.
+Por último, se ha de descargar (y descomprimir si fuera necesario), la carpeta `model_weights` que está alojada en la nube a través de este [enlace](https://drive.google.com/drive/folders/1nPKPucKVG8r_TReNu0ubfdo356mnXunf?usp=sharing). Hay que asegurarse que esta carpeta se encuentre en la raíz del proyecto.
 
 ## Uso
 

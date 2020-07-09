@@ -10,4 +10,4 @@ echo "Instalando librerías con pip..."
 pip3 install -r requirements.txt
 
 
-echo "Instalación finalizada! Diríjase a https://drive.google.com/drive/folders/1Xc_ukgb5vhDLTK4-PasUTTIs4nGZn-Cg?usp=sharing para descargarse los pesos"
+echo "Instalación finalizada! Diríjase a https://drive.google.com/drive/folders/1nPKPucKVG8r_TReNu0ubfdo356mnXunf?usp=sharing para descargarse los pesos"
