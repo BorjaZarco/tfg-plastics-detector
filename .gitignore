@@ -3,4 +3,5 @@ model_weights*
 tmp
 __pycache__
 keras_yolo3*
+keras-yolo3
 *.pyc
